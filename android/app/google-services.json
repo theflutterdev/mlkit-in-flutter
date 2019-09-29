@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "191749226424",
+    "firebase_url": "https://face-detection-with-mlkit.firebaseio.com",
+    "project_id": "face-detection-with-mlkit",
+    "storage_bucket": "face-detection-with-mlkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191749226424:android:ce322c6bd50930477b594d",
+        "android_client_info": {
+          "package_name": "com.example.face_detection_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191749226424-qmvnjqqptc7aojctnhlmhvt2helbr686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIXrUcps2FifEtzkzN4yIuDkBnqvt7CaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191749226424-qmvnjqqptc7aojctnhlmhvt2helbr686.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191749226424:android:69e30d5fc429b64b7b594d",
+        "android_client_info": {
+          "package_name": "com.example.face_detection_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191749226424-qmvnjqqptc7aojctnhlmhvt2helbr686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIXrUcps2FifEtzkzN4yIuDkBnqvt7CaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191749226424-qmvnjqqptc7aojctnhlmhvt2helbr686.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
